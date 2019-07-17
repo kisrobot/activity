@@ -10,11 +10,11 @@ import (
 	"testing"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/admin"
-	"github.com/qor/l10n"
-	"github.com/qor/qor"
-	"github.com/qor/qor/test/utils"
-	"github.com/qor/roles"
+	"github.com/kisrobot/admin"
+	"github.com/kisrobot/l10n"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/qor/test/utils"
+	"github.com/kisrobot/roles"
 	"github.com/theplant/testingutils"
 )
 
